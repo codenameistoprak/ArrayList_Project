@@ -1,0 +1,7 @@
+C:\Users\sumey\source\repos\NetFramework.S6.D2.ArrayListOdev\bin\Debug\NetFramework.S6.D2.ArrayListOdev.exe
+C:\Users\sumey\source\repos\NetFramework.S6.D2.ArrayListOdev\bin\Debug\NetFramework.S6.D2.ArrayListOdev.exe.config
+C:\Users\sumey\source\repos\NetFramework.S6.D2.ArrayListOdev\obj\Debug\NetFramework.S6.D2.ArrayListOdev.csproj.AssemblyReference.cache
+C:\Users\sumey\source\repos\NetFramework.S6.D2.ArrayListOdev\obj\Debug\NetFramework.S6.D2.ArrayListOdev.csproj.CoreCompileInputs.cache
+C:\Users\sumey\source\repos\NetFramework.S6.D2.ArrayListOdev\obj\Debug\NetFramework.S6.D2.ArrayListOdev.exe
+C:\Users\sumey\source\repos\NetFramework.S6.D2.ArrayListOdev\obj\Debug\NetFramework.S6.D2.ArrayListOdev.pdb
+C:\Users\sumey\source\repos\NetFramework.S6.D2.ArrayListOdev\bin\Debug\NetFramework.S6.D2.ArrayListOdev.pdb
